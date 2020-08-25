@@ -5,7 +5,7 @@ In this project, I will apply unsupervised learning techniques to identify segme
 
 ## File Description
 
-The data that I will use has been provided by our partners at Bertelsmann Arvato Analytics. <br>
+The data that I will use has been provided by Bertelsmann Arvato Analytics. <br>
 
 >Identify_Customer_Segments.ipynb: analysis report <br>
 >Data_Dictionary.md: explains the data columns and variables within the columns fully <br>
